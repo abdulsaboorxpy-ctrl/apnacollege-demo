@@ -1,2 +1,3 @@
 # apnacollege-demo
-this ismy first repositiry
+this is my first repositiry
+Author- abdul saboor
